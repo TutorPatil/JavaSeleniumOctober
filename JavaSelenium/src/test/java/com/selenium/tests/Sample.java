@@ -25,6 +25,8 @@ public class Sample extends BaseClass{
 		
 		System.out.println("Change from Git repo");
 		
+		System.out.println("This is the change from Laptop to test");
+		
 		
 	}
 
