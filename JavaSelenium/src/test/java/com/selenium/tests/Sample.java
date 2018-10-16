@@ -18,7 +18,10 @@ public class Sample extends BaseClass{
 		System.out.println("launching the browser");
 		
 		
+		
 		driver.get("http://google.com");
+		
+		System.out.println("Browser launched successfully");
 		
 		
 	}
