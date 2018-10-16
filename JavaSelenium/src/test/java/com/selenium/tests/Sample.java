@@ -23,6 +23,8 @@ public class Sample extends BaseClass{
 		
 		System.out.println("Browser launched successfully");
 		
+		System.out.println("Change from Git repo");
+		
 		
 	}
 
