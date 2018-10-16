@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Regression" verbose="1" >
+
+<test name="Sanity">  
+ 
+    <classes>
+      <class name="com.selenium.tests.Sample" />
+    
+    </classes>
+    
+    
+    
+ </test>
+ 
+ 
+  
+</suite>
