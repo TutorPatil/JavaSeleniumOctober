@@ -15,6 +15,8 @@ public class Sample extends BaseClass{
 		System.setProperty("webdriver.gecko.driver","./utilities/geckodriver.exe");
 		driver = new FirefoxDriver();
 		
+		System.out.println("launching the browser");
+		
 		
 		driver.get("http://google.com");
 		
